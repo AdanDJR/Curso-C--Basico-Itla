@@ -1,0 +1,15 @@
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\bin\Debug\net8.0\tarea.exe
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\bin\Debug\net8.0\tarea.deps.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\bin\Debug\net8.0\tarea.runtimeconfig.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\bin\Debug\net8.0\tarea.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\bin\Debug\net8.0\tarea.pdb
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.AssemblyInfoInputs.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.AssemblyInfo.cs
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.sourcelink.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\refint\tarea.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.pdb
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\tarea.genruntimeconfig.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\AppArreglos\tarea\obj\Debug\net8.0\ref\tarea.dll
