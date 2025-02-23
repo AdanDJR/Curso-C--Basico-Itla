@@ -1,0 +1,15 @@
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\bin\Debug\net8.0\ProgramaDeFecha.exe
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\bin\Debug\net8.0\ProgramaDeFecha.deps.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\bin\Debug\net8.0\ProgramaDeFecha.runtimeconfig.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\bin\Debug\net8.0\ProgramaDeFecha.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\bin\Debug\net8.0\ProgramaDeFecha.pdb
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.AssemblyInfoInputs.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.AssemblyInfo.cs
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.sourcelink.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\refint\ProgramaDeFecha.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.pdb
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ProgramaDeFecha.genruntimeconfig.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\ProgramaDeFecha\ProgramaDeFecha\obj\Debug\net8.0\ref\ProgramaDeFecha.dll
