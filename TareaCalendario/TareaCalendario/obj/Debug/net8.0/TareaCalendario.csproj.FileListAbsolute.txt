@@ -1,0 +1,15 @@
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\bin\Debug\net8.0\TareaCalendario.exe
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\bin\Debug\net8.0\TareaCalendario.deps.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\bin\Debug\net8.0\TareaCalendario.runtimeconfig.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\bin\Debug\net8.0\TareaCalendario.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\bin\Debug\net8.0\TareaCalendario.pdb
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.AssemblyInfoInputs.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.AssemblyInfo.cs
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.sourcelink.json
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\refint\TareaCalendario.dll
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.pdb
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\TareaCalendario.genruntimeconfig.cache
+C:\Users\cliente\Documents\Curso de C# basico Itla\TareaCalendario\TareaCalendario\obj\Debug\net8.0\ref\TareaCalendario.dll
