@@ -1,0 +1,14 @@
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\bin\Debug\net8.0\Registro Gym.exe
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\bin\Debug\net8.0\Registro Gym.deps.json
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\bin\Debug\net8.0\Registro Gym.runtimeconfig.json
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\bin\Debug\net8.0\Registro Gym.dll
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\bin\Debug\net8.0\Registro Gym.pdb
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\Registro Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\Registro Gym.AssemblyInfoInputs.cache
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\Registro Gym.AssemblyInfo.cs
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\Registro Gym.csproj.CoreCompileInputs.cache
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\Registro Gym.dll
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\refint\Registro Gym.dll
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\Registro Gym.pdb
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\Registro Gym.genruntimeconfig.cache
+C:\Sistema de Control de Citas de Belleza Final\Sistema-de-Control-de-Citas-de-Belleza\Gym\Registro Gym\obj\Debug\net8.0\ref\Registro Gym.dll
