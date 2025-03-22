@@ -1,0 +1,10 @@
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\bin\Debug\multilique dos numeros.exe.config
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\bin\Debug\multilique dos numeros.exe
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\bin\Debug\multilique dos numeros.pdb
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\obj\Debug\multilique dos numeros.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\obj\Debug\multilique_dos_numeros.Form1.resources
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\obj\Debug\multilique_dos_numeros.Properties.Resources.resources
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\obj\Debug\multilique dos numeros.csproj.GenerateResource.cache
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\obj\Debug\multilique dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\obj\Debug\multilique dos numeros.exe
+C:\Users\Victo\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Trabajo final del curso de c#\multilique dos numeros\multilique dos numeros\obj\Debug\multilique dos numeros.pdb
